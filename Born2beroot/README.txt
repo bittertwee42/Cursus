@@ -2,10 +2,9 @@ Hi!
 
 There is this useful guide: https://github.com/gemartin99/Born2beroot-Tutorial
 
-Even though it needs a small update:
+Even though it the last part didn't work for me. If that is the case for you too, here there are some instructions:
 
-- Part 4 of part 4.5: don't add enforce_for_root as the ssubject asks that the password rules shouldn't apply to the root password.
-- For the last part of the bonus, I had a problem that It didn't let me install Openlitespeed. I resolved by:
+For the last part of the bonus, I had a problem that It didn't let me install Openlitespeed. I resolved by:
 
 0. Install gpg
 sudo apt install gpg
